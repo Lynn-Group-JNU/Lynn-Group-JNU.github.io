@@ -13,8 +13,8 @@ tags: [Prof. Andrew M Lynn]
 
 
 # Prof. Andrew M Lynn
-  Professor 
-  SCIS 
+  Professor,  
+  SCIS,  
   Jawaharlal Nehru University
   
   
