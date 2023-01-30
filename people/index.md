@@ -19,7 +19,7 @@ tags: [people]
 </section><!-- /#table-of-contents -->
 
 
-## Current Members
+## Current Members<span style="color: green">this is green</span>.
 
 
 ### PostDoc
@@ -35,7 +35,7 @@ tags: [people]
 
 
 
-## Alumni
+## Alumni<span style="color: red">this is red</span>.
 
 ### PostDoc
 
