@@ -23,13 +23,27 @@ tags: [people]
 ## Current Members
 
 
-#### PostDoc
-
+#### PostDoc / Research Associate
+    
+    Dr. Atanu Banerjee
+    Dr. Amresh Prakash
+    Dr. Smriti Mishra
 
 #### PhD
+    
+    Madhulika Verma
+    Nitin Kumar
+    Mritunjay Singh Yadav
+    Trishala Das
+    Harbinder Kaur
+    Tarun Jain
+    Kanchana Yadav
+    Shailendra Singh Niboriya
 
+#### MSc
 
-#### MSc / Mtech
+    Richa Raj
+    Tarun Agrawal
 
 
 #### Project Researchers / Trainees
@@ -38,7 +52,7 @@ tags: [people]
 
 ## Alumni
 
-#### PostDoc
+#### PostDoc / Research Associate
 
 
 #### PhD
