@@ -8,7 +8,7 @@ tags: [Prof. Andrew M Lynn]
 ---
 
 
-[<img src="https://www.jnu.ac.in/Faculty/andrew/default_htm_files/2067.jpg"/>]
+<img src="https://www.jnu.ac.in/Faculty/andrew/default_htm_files/2067.jpg"/>
 
 
 
