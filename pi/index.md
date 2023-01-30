@@ -14,6 +14,8 @@ tags: [Prof. Andrew M Lynn]
 
 # Prof. Andrew M Lynn
   Professor
+  SCIS
+  Jawaharlal Nehru University
   
   
 ## Professional Experience
