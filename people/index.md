@@ -87,6 +87,35 @@ tags: [people]
     Ambarish Kumar
     Rinku Singh
 
+2015
+
+    Nitin
+
+2016
+
+    Harbinder Kaur
+    Trishala Das
+
+2017
+
+    Shashank
+    
+2018
+
+    Shubham Sharma
+    
+2019
+
+    Manas Pratiti
+    Shailendra Singh Niboriya
+    Swagatika Senapati
+    
+    
+2020
+
+    Shivani Devi
+    Shivangi Verma
+
 
 #### Project Researchers / Trainees
 
