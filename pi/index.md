@@ -19,6 +19,6 @@ tags: [Prof. Andrew M Lynn]
 ## Contact
 
 ### E-mail
-[andrew at jnu<dot>as<dot>in](mailto:andrew@jnu.ac.in)
+[andrew at jnu<dot>ac<dot>in](mailto:andrew@jnu.ac.in)
 
 [<img src="https://img.shields.io/badge/Google_Scholar-lightgrey?style=flat&logo=Google-Scholar" alt="Andrew Lynn"/>](https://scholar.google.co.in/citations?user=8tgnKvAAAAAJ&hl=en)
