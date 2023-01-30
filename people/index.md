@@ -19,6 +19,9 @@ tags: [people]
 </section><!-- /#table-of-contents -->
 
 
+## [Principal Investigator](https://lynn-group-jnu.github.io/pi/)
+  <br /><i>Prof. Andrew M Lynn</i>
+
 
 ## Current Members
 
