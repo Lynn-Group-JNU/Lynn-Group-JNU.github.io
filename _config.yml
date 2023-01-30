@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Shailendra Singh Niboriya
+title:            Lynn-Group-JNU
 locale:           en_US
-url:			  https://shailniboriya.github.io
+url:			  https://lynngroup.github.io
 
 # Jekyll configuration
 permalink:   /:categories/:title/
@@ -52,12 +52,12 @@ analytics:
 
 # Site owner
 owner:
-  name: Shailendra Singh Niboriya
+  name: Lynn-Group-JNU
   avatar: shail.jpg
-  bio: "Bioinformatician"
-  email: shailniboriya@gmail.com
+  bio: "Bioinformatics Research Lab"
+  email: #shailniboriya@gmail.com
 #  disqus-shortname: https-timotheenivalis-github-io
-  twitter: shailniboriya
+  twitter: s#hailniboriya
   facebook: #username
   google:
     plus: #username
@@ -66,7 +66,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: shailniboriya
+  github: Lynn-Group-JNU
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #
   xing: #username
