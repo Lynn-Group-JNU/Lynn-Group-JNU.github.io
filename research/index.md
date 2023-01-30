@@ -19,17 +19,13 @@ tags: [Shailendra Singh, research, bioinformatics, machine learning]
 </section><!-- /#table-of-contents -->
 
 
-### heading
+### Ongoing Research Projects
 
 text
 
 **This research is funded by....**
 
 
-
-## Past Projects
-
-coming soon...
 
 
 
