@@ -8,7 +8,7 @@ tags: [Lynn-Group-JNU, Research, Bioinformatics, machine learning, deep learning
 ---
  
 
-Hi, Lynn-Group-JNU is a research lab in school; of computational and integrative sciences, Jawaharlal Nehru University.
+Hi, Lynn-Group-JNU is a research lab in school of computational and integrative sciences, Jawaharlal Nehru University.
 
 
 
