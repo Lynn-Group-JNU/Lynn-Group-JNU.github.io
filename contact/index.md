@@ -13,14 +13,15 @@ Room 22
 
 School of Computational And Integrative Sciences
 
-Jawaharlal Nehru University, JNU Campus Rd, New Delhi, Delhi 110067
+Jawaharlal Nehru University
+
+New Delhi, 110067
+
 Phone 011-26704082
 
 
-## E-mail
 
-
-## Social 
+## Other Links
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black"/>](https://www.linkedin.com/in//)
 [<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="Lynn-Group-JNU"/>](https://github.com/Lynn-Group-JNU)
