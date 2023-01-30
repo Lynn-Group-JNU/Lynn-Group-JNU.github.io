@@ -38,7 +38,7 @@ tags: [Prof. Andrew M Lynn]
 
 ## Contact
 
-[<img src="https://img.shields.io/badge/-E--Mail-green">] andrew@jnu.ac.in
+<img src="https://img.shields.io/badge/-E--Mail-green"> andrew@jnu.ac.in
 
 [<img src="https://img.shields.io/badge/-Phone-blue">] 011-26704082
 
