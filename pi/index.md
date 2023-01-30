@@ -14,6 +14,10 @@ tags: [Prof. Andrew M Lynn]
   Professor
   
   
+## Education
+
+## Experience
+
   
 
 ## Contact
@@ -22,3 +26,4 @@ tags: [Prof. Andrew M Lynn]
 [andrew at jnu<dot>ac<dot>in](mailto:andrew@jnu.ac.in)
 
 [<img src="https://img.shields.io/badge/Google_Scholar-lightgrey?style=flat&logo=Google-Scholar" alt="Andrew Lynn"/>](https://scholar.google.co.in/citations?user=8tgnKvAAAAAJ&hl=en)
+[<img src="https://img.shields.io/badge/ORCiD-grey?style=flat&logo=ORCID"/>](https://orcid.org/)
