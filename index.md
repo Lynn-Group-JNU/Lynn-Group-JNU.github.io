@@ -1,23 +1,23 @@
 ---
 layout: home
-title: About Me
+title: LynnGroup
 date: 2020-02-25T00:00:00+00:00
 modified: 2020-02-28T00:00:00+00:00
-excerpt: "Shailendra Singh Niboriya's personal website."
-tags: [Shailendra Singh, Research, Bioinformatics, machine learning, deep learning, home]
+excerpt: "LynnGroup JNU's Homepage."
+tags: [LynnGroup JNU, Research, Bioinformatics, machine learning, deep learning, home]
 ---
  
 
-Hi, I am a Ph.D. candidate in ........... University.
-My dissertation is focused on the ...........
+Hi, LynnGroup is a research lab in school; of computational and integrative sciences, Jawaharlal Nehru University.
 
 
-My future research interests are developing machine learning methods and tools for biology and medicine.
 
 
-Please read about my current research [here](https://shailniboriya.github.io/research/).
 
-A list of publications is [here](https://shailniboriya.github.io/publications/).
+
+Please read about ongoing research projects here [here](https://lynngroup.github.io/research/).
+
+A list of publications is [here](https://lynngroup.github.io/publications/).
 
 
 
@@ -29,11 +29,8 @@ A list of publications is [here](https://shailniboriya.github.io/publications/).
 
 #### Social 
 
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black"/>](https://www.linkedin.com/in/shailniboriya/)
-[<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="shailniboriya"/>](https://github.com/shailniboriya)
-[<img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter" alt="shailniboriya"/>](https://twitter.com/shailniboriya) 
-[<img src="https://img.shields.io/badge/Google_Scholar-lightgrey?style=flat&logo=Google-Scholar" alt="Urminder Singh"/>](https://url)
-[<img src="https://img.shields.io/badge/ORCiD-grey?style=flat&logo=ORCID"/>](https://url)
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black"/>](https://www.linkedin.com/in//)
+[<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="Lynn-Group-JNU"/>](https://github.com/Lynn-Group-JNU)
 
 
 
