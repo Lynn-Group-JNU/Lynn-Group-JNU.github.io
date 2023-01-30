@@ -19,7 +19,7 @@ tags: [Shailendra Singh, research, bioinformatics, machine learning]
 </section><!-- /#table-of-contents -->
 
 
-### Ongoing Research Projects
+### Current Work
 
 text
 
