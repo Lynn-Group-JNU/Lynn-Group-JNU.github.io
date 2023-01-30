@@ -3,8 +3,8 @@ layout: home
 title: About Me
 date: 2020-02-25T00:00:00+00:00
 modified: 2020-02-28T00:00:00+00:00
-excerpt: "'s personal website."
-tags: [Singh, Research, Bioinformatics, machine learning, deep learning, home]
+excerpt: "Shailendra Singh Niboriya's personal website."
+tags: [Shailendra Singh, Research, Bioinformatics, machine learning, deep learning, home]
 ---
  
 
@@ -18,9 +18,6 @@ My future research interests are developing machine learning methods and tools f
 Please read about my current research [here](https://shailniboriya.github.io/research/).
 
 A list of publications is [here](https://shailniboriya.github.io/publications/).
-
-My Résumé could be found here: [<img src="https://img.shields.io/badge/pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](https://res.pdf){:target="_blank"}
-
 
 
 
