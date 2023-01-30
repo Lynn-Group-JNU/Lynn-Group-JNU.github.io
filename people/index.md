@@ -18,11 +18,7 @@ tags: [people]
 </div>
 </section><!-- /#table-of-contents -->
 
-<style>
-H1{color:Blue !important;}
-H2{color:Green !important;}
-p{color:Black !important;}
-</style>
+
 
 # Current Members
 
