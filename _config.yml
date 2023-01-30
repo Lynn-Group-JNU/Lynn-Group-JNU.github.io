@@ -2,7 +2,7 @@
 
 title:            Lynn-Group-JNU
 locale:           en_US
-url:			  https://lynngroup.github.io
+url:			  https://Lynn-Group-JNU.github.io
 
 # Jekyll configuration
 permalink:   /:categories/:title/
@@ -53,7 +53,7 @@ analytics:
 # Site owner
 owner:
   name: Lynn-Group-JNU
-  avatar: shail.jpg
+  avatar: JNU-LOGO.jpg
   bio: "Bioinformatics Research Lab"
   email: #shailniboriya@gmail.com
 #  disqus-shortname: https-timotheenivalis-github-io
