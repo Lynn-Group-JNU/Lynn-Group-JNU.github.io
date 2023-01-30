@@ -29,7 +29,11 @@ tags: [Lynn-Group-JNU]
 
 
 
-## Peer-reviewed 
+## Recent Peer-reviewed Publications
+
+
+
+For more click [here](https://scholar.google.co.in/citations?user=8tgnKvAAAAAJ&hl=en)
 
 
 
