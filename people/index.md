@@ -90,6 +90,48 @@ tags: [people]
 
 #### Project Researchers / Trainees
 
+from : 2009
+
+    Bagdevi Mishra
+    Nisha Chandran
+    Kunal Sharma
+    Vasu Gautam
+    Ravi Sharma
+    Ankita Narang
+    Gourja Bansal
+    Meenakshi Anurag
+    Suneeta Gupta
+    Ajeeta Kaushiki
+    Supriya Katara
+    Shalu Jhanwar
+    Sukhbir Singh Rattan
+    Swapna Menon
+    Shawez  Khan
+    Roopa Kuntal
+    Noopur Singh
+    Abhijeet Arun
+    Parul Verma
+    Shahzaib
+    Sneha Kumari
+    Jyotika Mishra
+    Debojyoti Mazumder
+    Neha Rohtagi
+    Romika Saini
+    Sanket Shah
+    Vanika Garg
+    Anisha Kathpalia
+    Ekta Kumari
+    Sunita Gupta
+    Jaya Uniyal
+    Manu Khandpal
+    Basharat Bhat
+    Rishi Srivastava
+    Shilpi Singh
+    Divya Saxena
+    M Waseem
+    Onkar Nath
+
+
 
 
 
