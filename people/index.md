@@ -18,8 +18,13 @@ tags: [people]
 </div>
 </section><!-- /#table-of-contents -->
 
+<style>
+H2{color:Blue !important;}
+H3{color:Green !important;}
+p{color:Black !important;}
+</style>
 
-+## Current Members
+## Current Members
 
 
 ### PostDoc
@@ -35,7 +40,7 @@ tags: [people]
 
 
 
--## Alumni
+## Alumni
 
 ### PostDoc
 
