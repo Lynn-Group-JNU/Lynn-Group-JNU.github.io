@@ -19,8 +19,8 @@ tags: [people]
 </section><!-- /#table-of-contents -->
 
 <style>
-H2{color:Blue !important;}
-H3{color:Green !important;}
+H1{color:Blue !important;}
+H2{color:Green !important;}
 p{color:Black !important;}
 </style>
 
