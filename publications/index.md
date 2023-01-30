@@ -33,26 +33,10 @@ tags: [Lynn-Group-JNU]
 
 
 
-For more click [here](https://scholar.google.co.in/citations?user=8tgnKvAAAAAJ&hl=en)
-
-
-
-
-
 ## Book chapters
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+----------------------------------------------------------------------------------------------------------------------------
+For more click [here](https://scholar.google.co.in/citations?user=8tgnKvAAAAAJ&hl=en)
