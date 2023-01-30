@@ -1,12 +1,12 @@
 # Site navigation links
-- title: Projects
+- title: Research
   url: /research/
 
 - title: Publications
   url: /publications/
 
-- title: Resources
-  url: /workshops/
+- title: People
+  url: /people/
 
 - title: Contact
   url: /contact/
