@@ -24,34 +24,34 @@ H2{color:Green !important;}
 p{color:Black !important;}
 </style>
 
-## Current Members
+# Current Members
 
 
-### PostDoc
+## PostDoc
 
 
-### PhD
+## PhD
 
 
-### MSc
+## MSc
 
 
-### Project Researchers / Trainees
+## Project Researchers / Trainees
 
 
 
-## Alumni
+# Alumni
 
-### PostDoc
-
-
-### PhD
+## PostDoc
 
 
-### MSc
+## PhD
 
 
-### Project Researchers / Trainees
+## MSc
+
+
+## Project Researchers / Trainees
 
 
 
