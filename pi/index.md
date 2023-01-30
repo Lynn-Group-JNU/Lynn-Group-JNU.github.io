@@ -14,11 +14,27 @@ tags: [Prof. Andrew M Lynn]
   Professor
   
   
+## Professional Experience
+
+    Professor & DEAN, School of Computational and Integrative Sciences, JNU, 2016
+    Associate Professor, School of Computational and Integrative Sciences, JNU, 2007-2012
+    Assistant Professor, School of Information Technology, JNU, 2001-2007
+    Research Associate, Bioinformatics Center, Jawaharlal Nehru University, 2000-2001
+    Research Scientist, International Center for Genetic Engineering and Biotechnology, 1998-1999
+
+## Other Experience
+
+    Member: Board of Studies,  Banasthali Vidyapeeth, 2007
+    Member: Board of Studies, Central University of Bihar, 2013
+    Member: Board of Studies  MMV, Bioinformatics; Banaras Hindu University, 2010 – 2014
+    Member: Board of Studies: Computational Biology, Pondicherry University, 2011 – 2015
+    Member : PSRG National Resource Center for Free and Open Source Software Ministry of Communication and Information Technology, 2009
+
 ## Education
 
-## Experience
+    M.Sc. Biotechnology, Goa University, 1991
+    PhD, Life Sciences, Jawaharlal Nehru University, 1998
 
-  
 
 ## Contact
 
