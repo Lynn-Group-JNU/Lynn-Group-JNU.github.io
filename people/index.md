@@ -46,6 +46,47 @@ tags: [people]
 
 #### MSc / Mtech
 
+2006-8
+
+    Mohd Rehan
+
+2007-9
+
+    Anmol Jaywant Hemrom
+    Ravi Yadav
+
+2009-10
+
+    Abhilash Gangadharan
+    Pankaj Narang
+
+2010-11
+
+    Sonia Verma
+
+2011-13
+
+    Niraj Kumar Khemka
+    Natya Hans
+    Ravikumar Balaguru
+
+2012-14
+
+    Yogendra Bhaskar
+    Vipin  Ranga
+    Mayank Srivastava
+    Kashif Nawaz
+
+2013-15
+
+    Shivangi Varshney
+
+2014-16
+
+    Rajesh Prasad
+    Ambarish Kumar
+    Rinku Singh
+
 
 #### Project Researchers / Trainees
 
