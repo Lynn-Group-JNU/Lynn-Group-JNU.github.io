@@ -20,34 +20,34 @@ tags: [people]
 
 
 
-# Current Members
+## Current Members
 
 
-## PostDoc
+#### PostDoc
 
 
-## PhD
+#### PhD
 
 
-## MSc
+#### MSc / Mtech
 
 
-## Project Researchers / Trainees
+#### Project Researchers / Trainees
 
 
 
-# Alumni
+## Alumni
 
-## PostDoc
-
-
-## PhD
+#### PostDoc
 
 
-## MSc
+#### PhD
 
 
-## Project Researchers / Trainees
+#### MSc / Mtech
+
+
+#### Project Researchers / Trainees
 
 
 
