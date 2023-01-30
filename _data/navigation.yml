@@ -1,4 +1,7 @@
 # Site navigation links
+- title: Principal Investigator
+  url: /pi/
+  
 - title: Research
   url: /research/
 
@@ -10,3 +13,5 @@
 
 - title: Contact
   url: /contact/
+  
+
