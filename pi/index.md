@@ -38,7 +38,7 @@ tags: [Prof. Andrew M Lynn]
 
 ## Contact
 
-[<img src="https://img.shields.io/badge/-E--Mail-green" alt="andrew@jnu.ac.in"/>](andrew@jnu.ac.in)
+[<img src="https://img.shields.io/badge/-E--Mail-green" alt="andrew@jnu.ac.in"/>] andrew@jnu.ac.in
 
 [<img src="https://img.shields.io/badge/Google_Scholar-lightgrey?style=flat&logo=Google-Scholar" alt="Andrew Lynn"/>](https://scholar.google.co.in/citations?user=8tgnKvAAAAAJ&hl=en)
 [<img src="https://img.shields.io/badge/ORCiD-grey?style=flat&logo=ORCID"/>](https://orcid.org/)
