@@ -40,7 +40,7 @@ tags: [Prof. Andrew M Lynn]
 
 <img src="https://img.shields.io/badge/-E--Mail-green"> andrew@jnu.ac.in
 
-[<img src="https://img.shields.io/badge/-Phone-blue">] 011-26704082
+<img src="https://img.shields.io/badge/-Phone-blue"> 011-26704082
 
 [<img src="https://img.shields.io/badge/Google_Scholar-lightgrey?style=flat&logo=Google-Scholar" alt="Andrew Lynn"/>](https://scholar.google.co.in/citations?user=8tgnKvAAAAAJ&hl=en)
 [<img src="https://img.shields.io/badge/ORCiD-grey?style=flat&logo=ORCID"/>](https://orcid.org/)
