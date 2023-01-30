@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People  
+title: 
 date: 2019-07-06T13:19:48+09:00
 modified: 2020-02-19T12:24:48+09:00
 excerpt: "People"
