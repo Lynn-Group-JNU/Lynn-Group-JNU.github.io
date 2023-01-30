@@ -3,8 +3,8 @@ layout: page
 title: Publications
 date: 202-02-29T19:09:34+01:00
 modified: 202-02-29T19:09:34+01:00
-excerpt: "Shailendra Singh Niboriya's publications"
-tags: [Shailendra Singh]
+excerpt: "Publications"
+tags: [Lynn-Group-JNU]
 ---
 
 <span id='badgeCont419579' style='width:126px'>
