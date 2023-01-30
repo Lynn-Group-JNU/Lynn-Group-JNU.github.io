@@ -7,6 +7,9 @@ excerpt: "Prof. Andrew M Lynn"
 tags: [Prof. Andrew M Lynn]
 ---
 
+[<img src=https://www.jnu.ac.in/Faculty/andrew/default_htm_files/2067.jpg/>]
+
+
 # Prof. Andrew M Lynn
   Professor
   
