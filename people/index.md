@@ -19,7 +19,7 @@ tags: [people]
 </section><!-- /#table-of-contents -->
 
 
-## current Members
+## Current Members
 
 
 ### PostDoc
