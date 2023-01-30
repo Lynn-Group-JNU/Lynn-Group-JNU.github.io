@@ -27,8 +27,11 @@ A list of publications is [here](https://Lynn-Group-JNU.github.io/publications/)
 
 
 
-## Social 
 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black"/>](https://www.linkedin.com/in//)
 [<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="Lynn-Group-JNU"/>](https://github.com/Lynn-Group-JNU)
 
