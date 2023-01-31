@@ -36,6 +36,7 @@ tags: [people]
       
 [Madhulika Verma]
 
+<img src="photo url"/>
 
 Education
 
@@ -50,6 +51,7 @@ Research Area
 
 [Nitin Kumar]
 
+<img src="photo url"/>
 
 Education    
 
@@ -64,6 +66,7 @@ Research Area
 
 [Mritunjay Singh Yadav]
 
+<img src="photo url"/>
 
 Education
 
@@ -78,6 +81,7 @@ Research Area
 
 [Trishala Das]
 
+<img src="photo url"/>
 
 Education
 
@@ -92,6 +96,8 @@ Research Area
 
 [Harbinder Kaur]
 
+<img src="photo url"/>
+
 Education
 
     B.Sc Bioinformatics(Hons.), GGDSD College, Punjab University
@@ -105,6 +111,7 @@ Research Area
 
 [Tarun Jain]
 
+<img src="photo url"/>
 
 Education
 
@@ -119,6 +126,8 @@ Research Area
 
 [Kanchana Yadav]
 
+<img src="photo url"/>
+
 Education
 
     
@@ -131,6 +140,7 @@ Research Area
 
 [Shailendra Singh Niboriya](https://github.com/shailniboriya)
 
+<img src="photo url"/>
 
 Education
 
@@ -140,11 +150,7 @@ Education
 Research Area
 
    
-    
-
-
-
-   
+  
 
 #### MSc
 
@@ -168,7 +174,9 @@ Research Area
 
 2023
 
-[Name](url)
+[Dr. ](url)
+
+<img src="photo url"/>
 
 Current Position: 
     
@@ -179,7 +187,9 @@ Thesis:   <i> title. </i>
 
 2021
 
-[Dr. Ruhar]
+[Dr. Ruhar](url)
+
+<img src="photo url"/>
 
 Current Position:    
     
@@ -190,7 +200,7 @@ Thesis:   <i> title. </i>
   
 [Dr. Poonam Vishwakarma](https://www.linkedin.com/in/dr-poonamvishwakarma/)
 
-
+<img src="photo url"/>
 
 Current Position: Postdoctoral Researcher (Bioinformatics Engineer), Université de La Réunion.   
       
@@ -199,7 +209,9 @@ Thesis:   <i> title. </i>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 2019
 
-[Name]
+[Dr.](url)
+
+<img src="photo url"/>
 
 Current Position:
     
@@ -208,7 +220,9 @@ Thesis:   <i> title. </i>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 2018
   
-[Name]
+[Dr.](url)
+
+<img src="photo url"/>
 
 Current Position:
     
@@ -219,6 +233,8 @@ Thesis:   <i> title. </i>
 
 [Dr.Deepak R. Bharti](https://www.linkedin.com/in/deepak-bharti-bioinfo/)
 
+<img src="photo url"/>
+
 Current Position: Research Fellow, Trinity College, Dublin.
    
 Thesis:   <i> Application of Inductive Learning in QSAR and Genome Wide Association Studies. </i>    
@@ -226,19 +242,20 @@ Thesis:   <i> Application of Inductive Learning in QSAR and Genome Wide Associat
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 2016
   
-[Name](url)
+[Dr.](url)
+
+<img src="photo url"/>
 
 Current Position:
-    
-   
     
 Thesis:   <i> title. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 2015
 
-[Dr.Rashmi Kumari]
+[Dr.Rashmi Kumari](url)
 
+<img src="photo url"/>
 
 Current Position: Senior Postdoctoral Research Fellow,Cambridge, Cambridgeshire.
     
@@ -246,28 +263,15 @@ Thesis Title:   <i> Application of Computational Methods in Rational Design of T
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Dr.]
-
-Current Position
-    
-   
-    
-Thesis Title
-
-   <i> title. </i>    
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 2014
   
-[Dr. Rajiv Mishra]
+[Dr. Rajiv Mishra](url)
 
-Current Position
-    
+<img src="photo url"/>
+
+Current Position:  
    
-    
-Thesis Title
-
-   <i> title. </i>    
+Thesis:   <i> title. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 2013
