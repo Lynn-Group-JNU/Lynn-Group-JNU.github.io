@@ -6,7 +6,7 @@ modified: 2017-08-11T20:36:00+02:00
 excerpt: "How to get in touch?"
 tags: [contact, LynnGroup JNU, email, address, social media]
 image:
-  feature: .jpg
+  feature: <img src="scis.jpg" width="1280" height="226"> 
   
 ---
 
