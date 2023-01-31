@@ -9,7 +9,7 @@ tags: [contact, LynnGroup JNU, email, address, social media]
 
 ## Address
 
-Room 22,  
+Room 22   
 School of Computational And Integrative Sciences   
 Jawaharlal Nehru University   
 New Delhi, 110067   
