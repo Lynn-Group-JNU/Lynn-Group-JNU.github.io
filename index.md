@@ -19,7 +19,7 @@ Hi, Lynn-Group-JNU is a research lab in school of computational and integrative 
 
 ## Areas of research
 
-
+...... coming shortly
 
 
 
