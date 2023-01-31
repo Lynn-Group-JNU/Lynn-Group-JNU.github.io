@@ -167,30 +167,45 @@ Research Area
 
 
 #### MSc / Mtech
+   
+    
+2020
 
-2006-8
+    Shivani Devi
+    Shivangi Verma
 
-    Mohd Rehan
+2019
 
-2007-9
+    Manas Pratiti
+    Shailendra Singh Niboriya
+    Swagatika Senapati
+ 
+2018
 
-    Anmol Jaywant Hemrom
-    Ravi Yadav
+    Shubham Sharma
+ 
+2017
 
-2009-10
+    Shashank 
 
-    Abhilash Gangadharan
-    Pankaj Narang
+2016
 
-2010-11
+    Harbinder Kaur
+    Trishala Das
 
-    Sonia Verma
+2015
 
-2011-13
+    Nitin
+    
+2014-16
 
-    Niraj Kumar Khemka
-    Natya Hans
-    Ravikumar Balaguru
+    Rajesh Prasad
+    Ambarish Kumar
+    Rinku Singh
+
+2013-15
+
+    Shivangi Varshney
 
 2012-14
 
@@ -198,46 +213,29 @@ Research Area
     Vipin  Ranga
     Mayank Srivastava
     Kashif Nawaz
-
-2013-15
-
-    Shivangi Varshney
-
-2014-16
-
-    Rajesh Prasad
-    Ambarish Kumar
-    Rinku Singh
-
-2015
-
-    Nitin
-
-2016
-
-    Harbinder Kaur
-    Trishala Das
-
-2017
-
-    Shashank
     
-2018
+2011-13
 
-    Shubham Sharma
+    Niraj Kumar Khemka
+    Natya Hans
+    Ravikumar Balaguru
+ 
+2010-11
+
+    Sonia Verma
     
-2019
+2009-10
 
-    Manas Pratiti
-    Shailendra Singh Niboriya
-    Swagatika Senapati
-    
-    
-2020
+    Abhilash Gangadharan
+    Pankaj Narang
+2007-9
 
-    Shivani Devi
-    Shivangi Verma
+    Anmol Jaywant Hemrom
+    Ravi Yadav
 
+2006-8
+
+    Mohd Rehan
 
 #### Project Researchers / Trainees
 
