@@ -22,7 +22,10 @@ tags: [research, bioinformatics,machine learning]
 
 ## Machines
 
-
+Coming shortly.......
 
 
 ## Softwares
+
+Coming shortly.......
+
