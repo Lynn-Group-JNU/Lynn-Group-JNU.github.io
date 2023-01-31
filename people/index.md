@@ -23,7 +23,7 @@ tags: [people]
   <br /><i>Principal Investigator</i>
 
 
-## Current Members
+## <span style="color:#00FF00">Current Members</span>
 
 
 #### PostDoc / Research Associate
@@ -54,7 +54,7 @@ tags: [people]
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## <span style="color:#00FF00">Alumni</span>
+## <span style="color:#ff0000">Alumni</span>
 
 
 #### PostDoc / Research Associate
