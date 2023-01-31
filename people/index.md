@@ -172,7 +172,7 @@ Research Area
 #### PhD
 
 
-2023
+**2023**
 
 [Dr. ](url)
 
