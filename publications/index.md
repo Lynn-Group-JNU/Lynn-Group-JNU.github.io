@@ -5,6 +5,9 @@ date: 202-02-29T19:09:34+01:00
 modified: 202-02-29T19:09:34+01:00
 excerpt: "Publications"
 tags: [Lynn-Group-JNU]
+image:
+  feature: .jpg
+  
 ---
 
 <span id='badgeCont419579' style='width:126px'>
