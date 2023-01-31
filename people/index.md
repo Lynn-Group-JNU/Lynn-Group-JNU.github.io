@@ -168,14 +168,12 @@ Research Area
 
 2023
 
-[Name]
+[Name](url)
 
-Current Position
+Current Position: 
     
    
-Thesis Title
-
-   <i> title. </i>    
+Thesis:   <i> title. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -183,13 +181,9 @@ Thesis Title
 
 [Dr. Ruhar]
 
-Current Position
+Current Position:    
     
-   
-    
-Thesis Title
-
-   <i> title. </i>    
+Thesis:   <i> title. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 2020
@@ -198,56 +192,47 @@ Thesis Title
 
 
 
-Current Position: <br> Postdoctoral Researcher (Bioinformatics Engineer), Université de La Réunion </br>
-    
+Current Position: Postdoctoral Researcher (Bioinformatics Engineer), Université de La Réunion.   
       
-Thesis Title:   <i> title. </i>    
+Thesis:   <i> title. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 2019
 
 [Name]
 
-Current Position: <></>
+Current Position:
     
-   
-    
-Thesis Title:   <i> title. </i>    
+Thesis:   <i> title. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 2018
   
 [Name]
 
-Current Position
+Current Position:
     
-   
-    
-Thesis Title
-
-   <i> title. </i>    
+Thesis:   <i> title. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 2017
 
 [Dr.Deepak R. Bharti](https://www.linkedin.com/in/deepak-bharti-bioinfo/)
 
-Current Position: <br>Research Fellow, Trinity College, Dublin</br>
+Current Position: Research Fellow, Trinity College, Dublin.
    
-Thesis Title:   <i> Application of Inductive Learning in QSAR and Genome Wide Association Studies. </i>    
+Thesis:   <i> Application of Inductive Learning in QSAR and Genome Wide Association Studies. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 2016
   
-[Name]
+[Name](url)
 
-Current Position
+Current Position:
     
    
     
-Thesis Title
-
-   <i> title. </i>    
+Thesis:   <i> title. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 2015
@@ -255,9 +240,8 @@ Thesis Title
 [Dr.Rashmi Kumari]
 
 
- Current Position: <br>Senior Postdoctoral Research Fellow,Cambridge, Cambridgeshire.</br>
+Current Position: Senior Postdoctoral Research Fellow,Cambridge, Cambridgeshire.
     
-      
 Thesis Title:   <i> Application of Computational Methods in Rational Design of Thermostability and Biomolecular Interactions. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
