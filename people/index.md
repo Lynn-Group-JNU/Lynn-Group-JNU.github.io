@@ -33,15 +33,106 @@ tags: [people]
     Dr. Smriti Mishra
 
 #### PhD
+      
+[Madhulika Verma]
+
+
+Education
+
+    B.Sc. Biology & Chemistry, University of Allahabad, Uttar Pradesh, IN
+    M.Sc Bioinformatics, University of Allahabad, Uttar Pradesh, IN
     
-    Madhulika Verma
-    Nitin Kumar
-    Mritunjay Singh Yadav
-    Trishala Das
-    Harbinder Kaur
-    Tarun Jain
-    Kanchana Yadav
-    Shailendra Singh Niboriya
+Research Area
+
+    NGS data analysis and pipelines , Single cell Transcriptomics and Cancer Immunology.
+    
+[Nitin Kumar]
+
+
+Education    
+
+    B.Sc(Hons.) Botany , S.G.T.B.Khalsa College , University of Delhi , IN
+    M.Sc Computational and Integrative Sciences (Specialisation in Computational Biology), School of computational and integrative sciences(SCIS), Jawaharlal Nehru University, IN    
+    
+Research Area
+
+    Text mining and Natural language processing(NLP)
+    
+Mritunjay Singh Yadav
+
+
+Education
+
+    B.Sc (H) Biomedical Science, Acharya Narendra Dev College, University of Delhi
+    M.Sc. Life Sciences, School of Life Sciences, Jawaharlal Nehru University
+    
+Research Area
+
+    Computational Structural Biology, Fragment based Drug Discovery
+    
+Trishala Das
+
+
+Education
+
+    B.Sc (H) Biotechnology , Cotton College State University.
+    M.Sc Computational and Integrative Sciences (Specialisation in Computational Biology), School of Computational and Integrative Sciences(SCIS), Jawaharlal Nehru University, IN    
+    
+Research Area
+
+    NGS data analysis, Multivariate data analysis.
+    
+Harbinder Kaur
+
+Education
+
+    B.Sc Bioinformatics(Hons.), GGDSD College, Punjab University
+    M.Sc Computational and Integrative Sciences (Specialisation in Computational Biology), School of computational and integrative sciences(SCIS), Jawaharlal Nehru University, IN
+    
+Research Area
+
+    Graph theory, Networks and Functional annotations.
+    
+Tarun Jain
+
+
+Education
+
+    B.Sc Zoology Honors, Atma Ram Sanatan Dharma College, University of Delhi
+    M.Sc Bioinformatics, Jamia Millia Islamia
+    
+Research Area
+
+    Machine learning and deep learning, network biology, Next generation sequencing analysis   
+    
+Kanchana Yadav
+
+Education
+
+    
+    
+Research Area
+
+   
+    
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Shailendra Singh Niboriya](https://github.com/shailniboriya)
+
+
+Education
+
+    B.Sc. Major in Zoology, IGNOU, New Delhi, IN
+    M.Sc Computational and Integrative Sciences (Specialisation in Computational Biology), School of computational and integrative sciences(SCIS), Jawaharlal Nehru University, IN
+    
+Research Area
+
+   
+    
+
+
+
+   
 
 #### MSc
 
