@@ -289,8 +289,8 @@ Thesis:   <i> title. </i>
     
 2020
 
-   Shivani Devi 
-   Shivangi Verma 
+   Shivani Devi  
+   Shivangi Verma  
 
 2019
 
