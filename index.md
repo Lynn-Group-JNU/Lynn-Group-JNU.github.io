@@ -6,7 +6,7 @@ modified: 2020-02-28T00:00:00+00:00
 excerpt: "Lynn-Group-JNU's Homepage."
 tags: [Lynn-Group-JNU, Research, Bioinformatics, machine learning, deep learning, home]
 image:
-  feature: scis.jpg
+  feature: .jpg
  
 ---
  
