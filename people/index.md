@@ -185,7 +185,7 @@ Thesis:   <i> title. </i>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2021
+**2021**
 
 [Dr. Ruhar](url)
 
@@ -196,7 +196,7 @@ Current Position:
 Thesis:   <i> title. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-2020
+**2020**
   
 [Dr. Poonam Vishwakarma](https://www.linkedin.com/in/dr-poonamvishwakarma/)
 
@@ -207,7 +207,7 @@ Current Position: Postdoctoral Researcher (Bioinformatics Engineer), Université
 Thesis:   <i> title. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-2019
+**2019**
 
 [Dr.](url)
 
@@ -218,7 +218,7 @@ Current Position:
 Thesis:   <i> title. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-2018
+**2018**
   
 [Dr.](url)
 
@@ -229,7 +229,7 @@ Current Position:
 Thesis:   <i> title. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-2017
+**2017**
 
 [Dr.Deepak R. Bharti](https://www.linkedin.com/in/deepak-bharti-bioinfo/)
 
@@ -240,7 +240,7 @@ Current Position: Research Fellow, Trinity College, Dublin.
 Thesis:   <i> Application of Inductive Learning in QSAR and Genome Wide Association Studies. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-2016
+**2016**
   
 [Dr.](url)
 
@@ -251,7 +251,7 @@ Current Position:
 Thesis:   <i> title. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-2015
+**2015**
 
 [Dr.Rashmi Kumari](url)
 
@@ -263,7 +263,7 @@ Thesis Title:   <i> Application of Computational Methods in Rational Design of T
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2014
+**2014**
   
 [Dr. Rajiv Mishra](url)
 
@@ -274,84 +274,81 @@ Current Position:
 Thesis:   <i> title. </i>    
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-2013
-2012
-2011
-2010
-2009
-2008
-2007
-2006
+**2013**
+**2012**
+**2011**
+**2010**
 
 
 #### MSc / Mtech
    
     
-2020
+**2020**
 
    Shivani Devi  
    Shivangi Verma  
 
-2019
+**2019**
 
    Manas Pratiti   
    [Shailendra Singh Niboriya](https://github.com/shailniboriya)  
    Swagatika Senapati  
  
-2018
+**2018**
 
    Shubham Sharma 
  
-2017
+**2017**
 
    Shashank  
 
-2016
+**2016**
 
-   Harbinder Kaur  
-   Trishala Das  
+   [Harbinder Kaur](url)  
+   [Trishala Das](url)  
 
-2015
+**2015**
 
-   Nitin 
+   [Nitin Kumar](url) 
     
-2014-16
+**2014-16**
 
    Rajesh Prasad  
    Ambarish Kumar  
    Rinku Singh  
 
-2013-15
+**2013-15**
 
    Shivangi Varshney 
 
-2012-14
+**2012-14**
 
    Yogendra Bhaskar  
    Vipin  Ranga  
    Mayank Srivastava  
    Kashif Nawaz  
     
-2011-13
+**2011-13**
 
    Niraj Kumar Khemka  
    Natya Hans  
    Ravikumar Balaguru  
  
-2010-11
+**2010-11**
 
    Sonia Verma 
     
-2009-10
+**2009-10**
 
    Abhilash Gangadharan  
    Pankaj Narang  
-2007-9
+
+**2007-9**
 
    Anmol Jaywant Hemrom  
    Ravi Yadav  
 
-2006-8
+**2006-8**
 
    Mohd Rehan  
 
