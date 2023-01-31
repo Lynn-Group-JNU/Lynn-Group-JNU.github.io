@@ -5,6 +5,9 @@ date: 2017-02-25T23:28:58+01:00
 modified: 2017-08-11T20:36:00+02:00
 excerpt: "How to get in touch?"
 tags: [contact, LynnGroup JNU, email, address, social media]
+image:
+  feature: scis.jpg
+  
 ---
 
 ## Address
