@@ -44,8 +44,10 @@ Education
     
 Research Area
 
-    NGS data analysis and pipelines , Single cell Transcriptomics and Cancer Immunology.
-    
+    NGS data analysis and pipelines , Single cell Transcriptomics and Cancer Immunology.    
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [Nitin Kumar]
 
 
@@ -56,9 +58,11 @@ Education
     
 Research Area
 
-    Text mining and Natural language processing(NLP)
-    
-Mritunjay Singh Yadav
+    Text mining and Natural language processing(NLP)    
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Mritunjay Singh Yadav]
 
 
 Education
@@ -68,9 +72,11 @@ Education
     
 Research Area
 
-    Computational Structural Biology, Fragment based Drug Discovery
-    
-Trishala Das
+    Computational Structural Biology, Fragment based Drug Discovery   
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Trishala Das]
 
 
 Education
@@ -80,9 +86,11 @@ Education
     
 Research Area
 
-    NGS data analysis, Multivariate data analysis.
-    
-Harbinder Kaur
+    NGS data analysis, Multivariate data analysis.   
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Harbinder Kaur]
 
 Education
 
@@ -93,7 +101,9 @@ Research Area
 
     Graph theory, Networks and Functional annotations.
     
-Tarun Jain
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Tarun Jain]
 
 
 Education
@@ -103,8 +113,10 @@ Education
     
 Research Area
 
-    Machine learning and deep learning, network biology, Next generation sequencing analysis   
-    
+    Machine learning and deep learning, network biology, Next generation sequencing analysis 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Kanchana Yadav
 
 Education
