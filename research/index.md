@@ -5,6 +5,9 @@ date: 2017-02-26T00:15:47+01:00
 modified: 2017-09-02T12:30:00+01:00
 excerpt: "Lynn-Group-JNU's current projects"
 tags: [Lynn-Group-JNU, research, bioinformatics, machine learning]
+image:
+  feature: .jpg
+  
 ---
 
 
