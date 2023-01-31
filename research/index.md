@@ -21,19 +21,8 @@ tags: [Lynn-Group-JNU, research, bioinformatics, machine learning]
 
 ### Ongoing Research Projects
 
-Coming shortly.......
-
+* Text
 <i> This research is funded by....</i>
-
-
-
-
-
-
-
-
-
-
-
+Coming shortly.......
 
 
