@@ -289,71 +289,71 @@ Thesis:   <i> title. </i>
     
 2020
 
-   Shivani Devi
-   Shivangi Verma
+   Shivani Devi 
+   Shivangi Verma 
 
 2019
 
-   Manas Pratiti
-   [Shailendra Singh Niboriya](https://github.com/shailniboriya)
-   Swagatika Senapati
+   Manas Pratiti 
+   [Shailendra Singh Niboriya](https://github.com/shailniboriya) 
+   Swagatika Senapati 
  
 2018
 
-   Shubham Sharma
+   Shubham Sharma 
  
 2017
 
-   Shashank 
+   Shashank  
 
 2016
 
-   Harbinder Kaur
-   Trishala Das
+   Harbinder Kaur 
+   Trishala Das 
 
 2015
 
-   Nitin
+   Nitin 
     
 2014-16
 
-   Rajesh Prasad
-   Ambarish Kumar
-   Rinku Singh
+   Rajesh Prasad 
+   Ambarish Kumar 
+   Rinku Singh 
 
 2013-15
 
-   Shivangi Varshney
+   Shivangi Varshney 
 
 2012-14
 
-   Yogendra Bhaskar
-   Vipin  Ranga
-   Mayank Srivastava
-   Kashif Nawaz
+   Yogendra Bhaskar 
+   Vipin  Ranga 
+   Mayank Srivastava 
+   Kashif Nawaz 
     
 2011-13
 
-   Niraj Kumar Khemka
-   Natya Hans
-   Ravikumar Balaguru
+   Niraj Kumar Khemka 
+   Natya Hans 
+   Ravikumar Balaguru 
  
 2010-11
 
-   Sonia Verma
+   Sonia Verma 
     
 2009-10
 
-   Abhilash Gangadharan
-   Pankaj Narang
+   Abhilash Gangadharan 
+   Pankaj Narang 
 2007-9
 
-   Anmol Jaywant Hemrom
-   Ravi Yadav
+   Anmol Jaywant Hemrom 
+   Ravi Yadav 
 
 2006-8
 
-   Mohd Rehan
+   Mohd Rehan 
 
 #### Project Researchers / Trainees
 
