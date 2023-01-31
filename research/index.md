@@ -23,7 +23,7 @@ tags: [Lynn-Group-JNU, research, bioinformatics, machine learning]
 
 Coming shortly.......
 
-**This research is funded by....**
+<i> This research is funded by....</i>
 
 
 
