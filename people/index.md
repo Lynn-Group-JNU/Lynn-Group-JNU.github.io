@@ -159,7 +159,7 @@ Research Area
 
 #### MSc
 
-   Richa Raj
+   Richa Raj 
    Tarun Agrawal
 
 
