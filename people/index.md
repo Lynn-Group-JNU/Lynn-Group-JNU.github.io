@@ -113,7 +113,7 @@ Research Area
     
 
 
-[Tarun Jain](url)
+[Tarun Jain](https://github.com/tarun3991)
 
 <img src="photo url"/>
 
