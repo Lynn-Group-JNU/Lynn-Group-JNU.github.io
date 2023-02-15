@@ -23,6 +23,9 @@ image:
 
 
 [Prof. Andrew M Lynn](https://lynn-group-jnu.github.io/pi/)
+
+<img src="photo url"/>
+
   <br /><i>Principal Investigator</i>
 
 
@@ -31,9 +34,14 @@ image:
 
 #### PostDoc / Research Associate
     
-   [Dr. Atanu Banerjee](url)  
-   [Dr. Amresh Prakash](url)   
+   [Dr. Atanu Banerjee](url) 
+   <img src="photo url"/>
+   
+   [Dr. Amresh Prakash](url)  
+   <img src="photo url"/>
+   
    [Dr. Smriti Mishra](url)  
+   <img src="photo url"/>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
