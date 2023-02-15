@@ -34,7 +34,7 @@ image:
 
 #### PostDoc / Research Associate
     
-   [Dr. Atanu Banerjee](url) 
+   [Dr. Atanu Banerjee](url)  
    <img src="photo url"/>
    
    [Dr. Amresh Prakash](url)  
