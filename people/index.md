@@ -167,7 +167,7 @@ Research Area
 
 #### MSc
 
-   Richa Raj  
+    
    
 
 
