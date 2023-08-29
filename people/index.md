@@ -156,9 +156,24 @@ Research Area
 Education
 
     B.Sc. Major in Zoology, IGNOU, New Delhi, IN
-    M.Sc Computational and Integrative Sciences (Specialisation in Computational Biology), School of computational and integrative sciences(SCIS), Jawaharlal Nehru University, IN
+    M.Sc. Computational and Integrative Sciences (Specialisation in Computational Biology), School of computational and integrative sciences(SCIS), Jawaharlal Nehru University, IN
     
 Research Area
+
+    Application of Machine learning in risk prediction and diagnosis of mental health disorders.
+
+[Namrata Joshia](https://www.linkedin.com/in/namrata-joshia-a0b542255/)
+
+<img src="photo url"/>
+
+Education
+
+    B.Sc.(H) Botany, University of Delhi, New Delhi, IN
+    M.Sc. Bioinformatics, Jamia Millia Islamia, New Delhi, IN
+    
+Research Area
+
+    
 
    
   
