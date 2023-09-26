@@ -46,21 +46,7 @@ image:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### PhD
-      
-[Madhulika Verma](url)
-
-<img src="photo url"/>
-
-Education
-
-    B.Sc. Biology & Chemistry, University of Allahabad, Uttar Pradesh, IN
-    M.Sc Bioinformatics, University of Allahabad, Uttar Pradesh, IN
-    
-Research Area
-
-    NGS data analysis and pipelines , Single cell Transcriptomics and Cancer Immunology.    
-
-
+       
 [Nitin Kumar](url)
 
 <img src="photo url"/>
@@ -207,6 +193,15 @@ Research Area
 #### PhD
 
 **2023**
+
+[Dr. Madhulika Verma](url)
+
+<img src="photo url"/>
+
+Current Position: 
+    
+   
+Thesis:   <i> title. </i>  
 
 [Dr. ](url)
 
