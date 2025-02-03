@@ -88,7 +88,7 @@ Education
     
 Research Area
 
-    NGS data analysis, Multivariate data analysis.   
+    NGS data analysis, Multivariate data analysis, Predictive AI, Generative AI.  
 
 
 
