@@ -77,33 +77,7 @@ Research Area
 
 
 
-[Trishala Das](url)
 
-<img src="photo url"/>
-
-Education
-
-    B.Sc (H) Biotechnology , Cotton College State University.
-    M.Sc Computational and Integrative Sciences (Specialisation in Computational Biology), School of Computational and Integrative Sciences(SCIS), Jawaharlal Nehru University, IN    
-    
-Research Area
-
-    NGS data analysis, Multivariate data analysis, Predictive AI, Generative AI.  
-
-
-
-[Harbinder Kaur](url)
-
-<img src="photo url"/>
-
-Education
-
-    B.Sc Bioinformatics(Hons.), GGDSD College, Punjab University
-    M.Sc Computational and Integrative Sciences (Specialisation in Computational Biology), School of computational and integrative sciences(SCIS), Jawaharlal Nehru University, IN
-    
-Research Area
-
-    Graph theory, Networks and Functional annotations.
     
 
 
@@ -192,7 +166,38 @@ Research Area
 
 #### PhD
 
+**2024**
+
+[Trishala Das](url)
+
+<img src="photo url"/>
+
+Education
+
+    B.Sc (H) Biotechnology , Cotton College State University.
+    M.Sc Computational and Integrative Sciences (Specialisation in Computational Biology), School of Computational and Integrative Sciences(SCIS), Jawaharlal Nehru University, IN    
+    
+Research Area
+
+    NGS data analysis, Multivariate data analysis, Predictive AI, Generative AI.  
+
+
+
+[Harbinder Kaur](url)
+
+<img src="photo url"/>
+
+Education
+
+    B.Sc Bioinformatics(Hons.), GGDSD College, Punjab University
+    M.Sc Computational and Integrative Sciences (Specialisation in Computational Biology), School of computational and integrative sciences(SCIS), Jawaharlal Nehru University, IN
+    
+Research Area
+
+    Graph theory, Networks and Functional annotations.
+
 **2023**
+
 
 [Dr. Madhulika Verma](url)
 
