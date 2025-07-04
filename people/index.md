@@ -168,7 +168,7 @@ Research Area
 
 **2024**
 
-[Trishala Das](url)
+[Dr. Trishala Das](url)
 
 <img src="photo url"/>
 
@@ -183,7 +183,7 @@ Research Area
 
 
 
-[Harbinder Kaur](url)
+[Dr. Harbinder Kaur](url)
 
 <img src="photo url"/>
 
